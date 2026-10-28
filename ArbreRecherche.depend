@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1793186316 source:c:\users\doha\desktop\virtualisation\arbrerecherche\main.cpp
+	<iostream>
+	"ArbreR.h"
+
+1793187445 c:\users\doha\desktop\virtualisation\arbrerecherche\arbrer.h
+
+1793187448 source:c:\users\doha\desktop\virtualisation\arbrerecherche\arbrer.cpp
+	<iostream>
+	"ArbreR.h"
+
+1793189201 source:c:\users\doha\desktop\virtualisation\arbrerecherche\test.cpp
+	<iostream>
+	"ArbreR.h"
+
